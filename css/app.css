@@ -137,3 +137,7 @@ a:hover {
     align-self: stretch;
      background-image: linear-gradient(rgba(0,0,0,0),rgba(31,30,52,1));
 }
+
+#box {
+     position: relative;
+}
